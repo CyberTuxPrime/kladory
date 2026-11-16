@@ -2,7 +2,7 @@
 
 **Digitale Notizbücher für Nextcloud – mit Kursnotizbüchern für die Schule, freier Leinwand und Apple-Pencil-Unterstützung.**
 
-Kladory ist eine Notizen-App für Nextcloud im Stil eines digitalen Notizbuchs: Notizbücher, farbige Abschnitte und Seiten, auf denen frei getippt, gezeichnet und geschrieben wird. Kursnotizbücher funktionieren ähnlich wie in OneNote – mit Inhaltsbibliothek, gemeinsamem Bereich, Lehrkräfte-Bereich und einem eigenen Bereich für jede Schülerin und jeden Schüler.
+adory ist eine Notizen-App für Nextcloud, die ein digitales Notizbuch-Erlebnis bietet. Nutzer können Notizbücher mit farbigen Abschnitten und frei gestaltbaren Seiten erstellen, auf denen sich Texte, Zeichnungen und handschriftliche Notizen kombinieren lassen. Für den schulischen Einsatz gibt es spezielle Kursnotizbücher mit einer Inhaltsbibliothek, einem gemeinsamen Arbeitsbereich, einem Lehrkräftebereich sowie persönlichen Bereichen für jede Schülerin und jeden Schüler.
 
 Alle Daten bleiben auf dem eigenen Nextcloud-Server. Keine Cloud eines Drittanbieters, keine Telemetrie.
 
@@ -85,4 +85,4 @@ Kladory wird an einer Schule im Alltag getestet und weiterentwickelt. Die Versio
 
 Kladory ist freie Software unter der [GNU Affero General Public License v3.0 oder neuer](LICENSE) (AGPL-3.0-or-later) – wie Nextcloud selbst.
 
-„Nextcloud“ ist eine Marke der Nextcloud GmbH. Kladory ist ein unabhängiges Projekt. OneNote ist eine Marke der Microsoft Corporation; Kladory steht in keiner Verbindung zu Microsoft.
+„Nextcloud“ ist eine Marke der Nextcloud GmbH. Kladory ist ein unabhängiges Projekt. 
