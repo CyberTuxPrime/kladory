@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+	<id>kladory</id>
+	<name>Kladory</name>
+	<summary>Notizbücher mit Abschnitten und Seiten – Knowledge, Learning &amp; Archiving</summary>
+	<description><![CDATA[Kladory ist eine Notizen-App im Stil eines digitalen Notizbuchs:
+Notizbücher, farbige Abschnitte und Seiten, später mit freier Leinwand.
+Alle Daten bleiben auf dem eigenen Nextcloud-Server.]]></description>
+	<version>0.8.3</version>
+	<licence>AGPL-3.0-or-later</licence>
+	<author>Kladory</author>
+	<namespace>Kladory</namespace>
+	<category>office</category>
+	<category>organization</category>
+	<dependencies>
+		<php min-version="8.2"/>
+		<nextcloud min-version="35" max-version="35"/>
+	</dependencies>
+	<background-jobs>
+		<job>OCA\Kladory\BackgroundJob\PurgeTrash</job>
+	</background-jobs>
+	<commands>
+		<command>OCA\Kladory\Command\Trash</command>
+		<command>OCA\Kladory\Command\Transfer</command>
+		<command>OCA\Kladory\Command\ExportCmd</command>
+		<command>OCA\Kladory\Command\ImportCmd</command>
+	</commands>
+	<navigations>
+		<navigation>
+			<name>Kladory</name>
+			<route>kladory.page.index</route>
+			<icon>app.svg</icon>
+		</navigation>
+	</navigations>
+</info>
