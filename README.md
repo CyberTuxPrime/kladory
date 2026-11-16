@@ -2,7 +2,7 @@
 
 **Digitale Notizbücher für Nextcloud – mit Kursnotizbüchern für die Schule, freier Leinwand und Apple-Pencil-Unterstützung.**
 
-adory ist eine Notizen-App für Nextcloud, die ein digitales Notizbuch-Erlebnis bietet. Nutzer können Notizbücher mit farbigen Abschnitten und frei gestaltbaren Seiten erstellen, auf denen sich Texte, Zeichnungen und handschriftliche Notizen kombinieren lassen. Für den schulischen Einsatz gibt es spezielle Kursnotizbücher mit einer Inhaltsbibliothek, einem gemeinsamen Arbeitsbereich, einem Lehrkräftebereich sowie persönlichen Bereichen für jede Schülerin und jeden Schüler.
+Kladory ist eine Notizen-App für Nextcloud, die ein digitales Notizbuch-Erlebnis bietet. Nutzer können Notizbücher mit farbigen Abschnitten und frei gestaltbaren Seiten erstellen, auf denen sich Texte, Zeichnungen und handschriftliche Notizen kombinieren lassen. Für den schulischen Einsatz gibt es spezielle Kursnotizbücher mit einer Inhaltsbibliothek, einem gemeinsamen Arbeitsbereich, einem Lehrkräftebereich sowie persönlichen Bereichen für jede Schülerin und jeden Schüler.
 
 Alle Daten bleiben auf dem eigenen Nextcloud-Server. Keine Cloud eines Drittanbieters, keine Telemetrie.
 
