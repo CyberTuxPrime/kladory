@@ -2,6 +2,11 @@
 
 Alle nennenswerten Änderungen an Kladory. Format angelehnt an [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionsnummern nach [Semantic Versioning](https://semver.org/lang/de/).
 
+## [0.8.4] - 2026-11-16
+
+### Geändert
+- Angaben für den Nextcloud App Store: englische und deutsche Beschreibung, Projekt- und Fehlermelde-Links, Bildschirmfotos, Admin-Dokumentation. Keine Änderungen am Programm.
+
 ## [0.8.3] - 2026-11-16
 
 ### Behoben
