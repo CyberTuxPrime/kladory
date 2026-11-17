@@ -6,7 +6,7 @@ Notizen-App für Nextcloud 35: Notizbücher → farbige Abschnitte → Seiten.
 
 ```bash
 # 1. Archiv entpacken (ergibt den Ordner "kladory")
-tar xzf kladory-0.8.3.tar.gz
+tar xzf kladory-0.8.4.tar.gz
 
 # 2. In den Container kopieren (Containername anpassen)
 docker cp kladory nextcloud:/var/www/html/custom_apps/
@@ -34,7 +34,7 @@ Pfad `apps/` bzw. `custom_apps/` je nach Installation.
 
 ## Kursnotizbücher
 
-Aufbau wie bei OneNote:
+Aufbau:
 
 | Bereich | Lehrkräfte | Schüler |
 |---|---|---|
